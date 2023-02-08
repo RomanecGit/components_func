@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import './css/App.css';
 import ShopItemFunc from './ShopItem';
 
 const item = {
